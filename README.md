@@ -25,11 +25,6 @@ Formulas used here
  
  * If the particular Color is goes at the left corner, then it shows "Left"
  
- # Hue Saturation Value :
- 
- * HSV Color Scale: The HSV (which stands for Hue Saturation Value) scale provides a numerical readout of your image that corresponds to the color names contained therein. Hue is measured in degrees from 0 to 360. For instance, cyan falls between 181–240 degrees, and magenta falls between 301–360 degrees.
- 
- * To run the colorCalibrationforHSV file and get your color values and use it in main code
  
 # Steps :
      
@@ -49,6 +44,3 @@ Formulas used here
      
      * Run the code and display the output
      
- # Output :
-   
-   * To see the output video, then go to the media file and check it out.
