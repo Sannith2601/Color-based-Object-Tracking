@@ -1,4 +1,4 @@
-# Object-Tracking-based-on-Color
+# Color based Object-Tracking
 
 object tracking based on color using HSV (Hue Saturation Value)
 
